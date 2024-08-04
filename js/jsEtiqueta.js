@@ -1,0 +1,1 @@
+// JavaScript para manejar la funcionalidad de etiquetas
